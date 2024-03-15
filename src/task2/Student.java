@@ -1,4 +1,4 @@
-package University;
+package task2;
 
 import javax.xml.crypto.Data;
 import java.io.Serializable;
@@ -32,4 +32,5 @@ public class Student implements Serializable, Data {
         int mark = scanner.nextInt();
         System.out.println("You rated it - " + mark);
     }
+
 }
