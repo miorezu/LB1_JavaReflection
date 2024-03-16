@@ -5,7 +5,7 @@ import java.lang.reflect.Modifier;
 import java.util.Arrays;
 
 public abstract class ClassInfo {
-    public static void getInfo(Class<?> myClass) {
+    public static String getInfo(Class<?> myClass) {
 
         StringBuilder infoClass = new StringBuilder();
         infoClass.append("Package: " + myClass.getPackage() + "\n");
@@ -29,5 +29,6 @@ public abstract class ClassInfo {
         }
         infoClass.append("\nConstructors: " + Arrays.toString(myClass.getConstructors()) + "\n");
         System.out.println(infoClass);
+        return infoClass.toString();
     }
 }
