@@ -32,5 +32,4 @@ public class Student implements Serializable, Data {
         int mark = scanner.nextInt();
         System.out.println("You rated it - " + mark);
     }
-
 }

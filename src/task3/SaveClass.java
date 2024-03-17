@@ -1,13 +1,13 @@
 package task3;
 
 public class SaveClass {
+    private Object value;
+    private Class<?> type;
+
     public SaveClass(Object value, Class<?> type) {
         this.value = value;
         this.type = type;
     }
-
-    private Object value;
-    private Class<?> type;
 
     public Object getValue() {
         return value;
@@ -24,5 +24,4 @@ public class SaveClass {
     public void setType(Class<?> type) {
         this.type = type;
     }
-
 }

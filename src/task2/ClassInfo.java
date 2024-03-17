@@ -29,8 +29,8 @@ public class ClassInfo {
         System.out.println(callIn);
         System.out.println("Choose method to call:\n");
         Method[] methods = newStudent.getClass().getDeclaredMethods();
-        for (Method method : methods) {
-            System.out.println(method);
+        for (int i = 0; i < methods.length; i++) {
+            System.out.println((i+1) + ") " + methods[i]);
         }
         System.out.println("Print number of method: ");
         Scanner scanner = new Scanner(System.in);
