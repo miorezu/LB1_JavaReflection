@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f1a87b-3501-4748-b2e5-ea507176bd1b" name="Changes" comment=" Fourth task">
-      <change afterPath="$PROJECT_DIR$/src/task1/Frame.java" afterDir="false" />
+    <list default="true" id="c5f1a87b-3501-4748-b2e5-ea507176bd1b" name="Changes" comment="GUI for first task">
+      <change afterPath="$PROJECT_DIR$/src/task5/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task5/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task5/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1/ClassInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/ClassInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/Frame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/university/2course/1 sem/OOP/PR10_11",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/university/2course/1 sem/OOP/PR10_11&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="task5" />
@@ -86,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710609390938</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="GUI for first task">
+      <created>1710615810978</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710615811024</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -94,6 +103,7 @@
     <MESSAGE value="Second task" />
     <MESSAGE value="Third task" />
     <MESSAGE value=" Fourth task" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Fourth task" />
+    <MESSAGE value="GUI for first task" />
+    <option name="LAST_COMMIT_MESSAGE" value="GUI for first task" />
   </component>
 </project>
